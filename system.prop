@@ -1,0 +1,7 @@
+# Hardware Info
+ro.device.chipset=Intel® Atom™ Quad Core Z2560
+ro.device.cpu=Dual-core 1.6 GHz
+ro.device.gpu=PowerVR SGX544MP2
+ro.device.rear_cam=8 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=720x1280
